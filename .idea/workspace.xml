@@ -22,8 +22,8 @@
       <file leaf-file-name="main.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/su_vue/src/containers/main.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+            <state relative-caret-position="324">
+              <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -92,8 +92,8 @@
     <handled-path value="$PROJECT_DIR$/su_vue/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="105" />
+    <option name="y" value="204" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -307,12 +307,12 @@
       <workItem from="1521180537799" duration="9228000" />
       <workItem from="1521445495721" duration="330000" />
       <workItem from="1522818681657" duration="2375000" />
-      <workItem from="1522831991573" duration="934000" />
+      <workItem from="1522831991573" duration="1709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62359000" />
+    <option name="totallyTimeSpent" value="63134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -366,8 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/su_vue/src/containers/main.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="55" lean-forward="true" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+        <state relative-caret-position="324">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
           <folding />
         </state>
       </provider>
