@@ -4,7 +4,7 @@
     <el-header>
       <img class="logo" src="../assets/logo.png"/>
       <div class="tab_bar">
-        <router-link to='/main'>实时监测111</router-link>
+        <router-link to='/main'>实时监测11122</router-link>
         <router-link to='/main/tab2'>故障定位</router-link>
         <router-link to='/main/tab3'>自动拨测</router-link>
         <router-link to='/main/tab4'>系统管理</router-link>
