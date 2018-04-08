@@ -15,5 +15,4 @@ UC历史课到家啊来点书
 
 三个“-”代表的意思也是横线
 
-
->[Google]: http://google.com/
+[Google]: http://google.com/
