@@ -28,7 +28,7 @@ __double underscores__
 
 ```flow
 st=>start: Start
-op=>operation: 你的选择
+op=>operation: your option
 cond=>condition: Yes or No?
 e=>end
 
