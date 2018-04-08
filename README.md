@@ -25,3 +25,14 @@ __double underscores__
 
 
 ![原始会logo](http://yshs4.ncfstatic.com/v5/images/logo.png)
+
+```flow
+st=>start: Start
+op=>operation: 你的选择
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
