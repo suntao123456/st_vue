@@ -15,6 +15,10 @@ UC历史课到家啊来点书
 
 三个“-”代表的意思也是横线
 
-[google]: http://google.com/        "Google"
-[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-[msn]:    http://search.msn.com/    "MSN Search"
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
